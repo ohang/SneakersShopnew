@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Բոթասներ"
+          android:icon="@drawable/ic_sneaker_shoes_svgrepo_com"
+          android:id="@+id/mwsnfragment"
+        />
+    <item android:title="Հավանած"
+        android:icon="@drawable/ic_favor"
+          android:id="@+id/myFavoriteFragment"/>
+
+    <item android:title="իմ Էջ"
+        android:icon="@drawable/ic_person"
+        android:id="@+id/userPageFragment"/>
+</menu>
